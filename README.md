@@ -1,13 +1,21 @@
 # GPOI
-Where all our Pattern are implemented and explained
+I DESIGN PATTERN
 
-PATTERN: una soluzione standardizzata per una classe di problemi 
+Di ogni  pattern è necessario conoscere:
+-UML
+-descrzione (italiano & inglese)
+-implementazione (il liguaggio non è importante, possiamo  sceglierne uno tra i molteplici a nostra conoscenza)
 
-I pattern principali sono stati sviluppati dalla Gof(Gang of four) e presentati nel '94
+PATTER: un pattern è una soluzione standardizzata ad una classe di problemi
 
-I patter si dividono in 3 categorie :
+La maggior dei pattern è stata "inventata" dalla Gof(Gang Of Four) nel '94.
+Quelli proposti dalla Gof non sono gli unici presenti in informatica, ma degli  altri  se ne parla davvero poco
 
-Creazionali 
+Il libro in cui questi pattern vengono presentati si chiama: Elementi per il riuso del softwere.
+
+I pattern si dividono in tre categorie: 
+
+1)CREAZIONALI (creationals)
 
     Factory Method
     Prototype
@@ -15,6 +23,7 @@ Creazionali
     Singleton 
     Abstract Factory
     
-Strutturali
+2)STRUTTURALI (structurals)
 
-Comportamentali
+3)COMPORTAMENTALI (behavourials) 
+
