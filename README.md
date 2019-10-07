@@ -8,10 +8,13 @@ I pattern principali sono stati sviluppati dalla Gof(Gang of four) e presentati 
 I patter si dividono in 3 categorie :
 
 Creazionali 
+
     Factory Method
     Prototype
     Builder
     Singleton 
     Abstract Factory
+    
 Strutturali
+
 Comportamentali
