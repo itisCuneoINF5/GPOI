@@ -15,14 +15,14 @@ Il libro in cui questi pattern vengono presentati si chiama: Elementi per il riu
 
 I pattern si dividono in tre categorie: 
 
-# 1)CREAZIONALI (creationals)
+## 1)CREAZIONALI (creationals)
 -    Factory Method
 -    Prototype
 -    Builder
 -    Singleton 
 -    Abstract Factory
     
-# 2)STRUTTURALI (structurals)
+## 2)STRUTTURALI (structurals)
 
-# 3)COMPORTAMENTALI (behavourials) 
+## 3)COMPORTAMENTALI (behavourials) 
 
